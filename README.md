@@ -1,3 +1,2 @@
 # zed
-this is my first repository
-my first commment
+Jupyter notebook basics
